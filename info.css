@@ -6,7 +6,7 @@
 
 body
 {
-	background-image: url(thebus.png);
+	background-image: url(road.png);
 	height: 80vh;
 	width: 95%;
 	background-size: cover;
@@ -42,6 +42,7 @@ p
 	float: left;
 	transform: translate(200%, 200%);
 	font-size: 30px;
+	color: white;
 }
 
 p1
@@ -49,4 +50,5 @@ p1
 	float: right;
 	transform: translate(-200%, 200%);
 	font-size: 30px;
+	color: white;
 }
