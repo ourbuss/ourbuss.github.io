@@ -49,4 +49,6 @@ ul
 .hiddenbutton
 {
   margin-top: 29.75%;
+  background-color: transparent;
+  color: transparent;
 }
