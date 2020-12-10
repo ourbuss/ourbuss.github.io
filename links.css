@@ -1,0 +1,66 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+body
+{
+	background-image: url(thebus.png);
+	height: 55vh;
+	width: 95%;
+	background-size: cover;
+	background-position: center;
+}
+
+ul
+{
+	list-style-type: none;
+	margin-left: 35%;
+	margin-top: 310px;
+}
+
+.navbar
+{
+  background-color: transparent;
+  border: 2px solid white;
+  color: white;
+  padding: 9px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  margin: 2px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.navbar:hover
+{
+  background-color: white;
+  color: black;
+}
+
+.homebutton
+{
+  background-color: transparent;
+  border: 2px solid white;
+  color: white;
+  padding: 9px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  margin: 2px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+  position: absolute;
+  top: 4%;
+  transform: translate(1%, -50%)
+}
+
+.homebutton:hover
+{
+	background-color: white;
+	color: black;
+}
