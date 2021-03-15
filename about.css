@@ -6,7 +6,7 @@
 
 body
 {
-	background-image: url(thebus.png);
+	background-image: url(thesky.png);
 	height: 45vh;
 	width: 95%;
 	background-size: cover;
@@ -15,9 +15,17 @@ body
 
 p
 {
-	margin-left: 50%;
-	margin-top: 20%;
+	margin-left: 5.5%;
+	margin-top: 15%;
 	font-size: 25px;
+	text-align: center;
+}
+
+p1
+{
+	margin-left: 47%;
+	text-align: center;
+	font-size: 40px;
 }
 
 .homebutton

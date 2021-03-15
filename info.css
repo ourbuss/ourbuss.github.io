@@ -40,7 +40,7 @@ body
 p
 {
 	float: left;
-	transform: translate(200%, 200%);
+	transform: translate(15%, 130%);
 	font-size: 30px;
 	color: white;
 }
@@ -48,7 +48,7 @@ p
 p1
 {
 	float: right;
-	transform: translate(-200%, 200%);
+	transform: translate(-250%, 130%);
 	font-size: 30px;
 	color: white;
 }
