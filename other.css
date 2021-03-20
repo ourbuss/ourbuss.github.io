@@ -8,7 +8,7 @@ body
 {
 	background-image: url(road.png);
 	height: 80vh;
-	width: 95%;
+	width: 100%;
 	background-size: cover;
 	background-position: center;
 }
@@ -35,4 +35,58 @@ body
 {
 	background-color: white;
 	color: black;
+}
+
+.img1
+{
+	height: 550px;
+	width: auto;
+	margin: 3px 3px;
+}
+
+.img2
+{
+	height: 365px;
+	width: auto;	
+	top: -30%;
+	position: relative;
+	margin: 3px 3px;
+}
+
+.img3
+{
+	height: 615px;
+	width: auto;
+	float: right;
+	position: relative;
+	margin: 3px 3px;
+}
+
+.img4
+{
+	height: 550px;
+	width: auto;
+	float: left;
+	position: relative;
+	margin: 3px 3px;
+}
+
+.img5
+{
+	height: 507px;
+	width: auto;
+	top: -30%;
+	left: .3%;
+	position: relative;
+	margin: 3px 3px;
+}
+
+.img6
+{
+	height: 480px;
+	width: auto;
+	float: right;
+	top: -73.5%;
+	position: relative;
+	margin: 3px 3px;
 }
